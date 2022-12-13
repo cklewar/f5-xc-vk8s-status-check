@@ -1,4 +1,4 @@
-name: F5XC vk8s status check module
+name: F5XC vk8s status Check module
 on: workflow_dispatch
 jobs:
   f5-xc-vk8s-status-check-module-validate:
